@@ -15,9 +15,6 @@
 Скидка свыше 20% делает позицию заказа в среднем убыточной; Tables и Bookcases убыточны, несмотря на
 заметную выручку. Champions+Loyal (47.7% клиентов) дают 71% выручки.
 
-## Основной файл
-
-
 ## Дашборд
 <img width="780" height="533" alt="image" src="https://github.com/user-attachments/assets/0674a5e8-3406-4536-81c0-07d53a1f4900" />
 
